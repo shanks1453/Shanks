@@ -1,4 +1,4 @@
-<h1 align="center">🌀 Abulomer - Bay Terminal</h1>
+<h1 align="center">🌀 Shanks - Bay Bay</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Kod+yazmak+bir+eğlencedir+🧙‍♂️;Linux%E2%9C%94%EF%B8%8FPython%E2%9C%94%EF%B8%8FWeb+Dev%E2%9C%94%EF%B8%8F;Merak+et%2C+ara%C5%9Ft%C4%B1r%2C+in%C5%9Fa+et!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -27,13 +27,13 @@
 ### 🌐 Sosyal Medya & İletişim
 
 <p align="center">
-  <a href="https://twitter.com/abulomerIKofP" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://discord.com/users/yourid" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:abulomer2001@gmail.com">
+  <a href="mailto:shanks1453@proton.me">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -51,5 +51,5 @@
 ###
 
 ### ✨ Küçük Not
-> “Öğren,Öğren,daha çok Öğren...” – Bilinmeyen Bir Geliştirici
+> “Baki baya brain root animesidir...” – Bilinmeyen Bir Geliştirici
 
